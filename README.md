@@ -1,6 +1,6 @@
 # Hello World, I'm Diego <img width="35" height="35" src="https://camo.githubusercontent.com/66e00b1e8f7047726770f791fdd5deac5341bf0b598f6d0202cbc94cda80fb06/68747470733a2f2f692e696d6775722e636f6d2f6c73697a67476c2e676966" />
 
-### I like to explore stuff 🌱
+### I like to explore new things 🌱
 
 #### Languages and Tools:
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
