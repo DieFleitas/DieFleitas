@@ -13,7 +13,8 @@
 <img align="left" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <br/>
-
+<br/>
+<hr />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=DieFleitas&theme=graywhite" />
 
 <img align="left" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DieFleitas&layout=compact" />
