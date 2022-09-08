@@ -14,6 +14,8 @@
 <img align="left" margin="5px" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img align="left" margin="5px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
+<br />
+<br />
 <hr />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=DieFleitas&theme=graywhite" />
 
