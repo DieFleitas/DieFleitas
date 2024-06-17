@@ -91,16 +91,6 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
       height="40" /> 
       </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
-        <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain-wordmark.svg" alt="nestjs" width="40"
-      height="40" /> 
-      </a>
-  <a href="https://nuxt.com/" target="_blank" rel="noreferrer"> 
-        <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" alt="nuxtjs" width="40"
-      height="40" /> 
-      </a>
       </p>
 
 <br>
