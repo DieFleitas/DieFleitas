@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/diego-fleitas250698/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="diego fleitas" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/diegofleitas98?" target="blank"><img align="center"
+  <a href="https://www.hackerrank.com/fleitasdiegoari1" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="diego fleitas" height="30" width="40" /></a>
  <a href="https://twitter.com/_DFleiitas" target="blank"><img align="center"
