@@ -16,7 +16,6 @@
 
 - 📫 How to reach me **diegofleitas98@outlook.es**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
 <br>
 
