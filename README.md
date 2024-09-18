@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego Fleitas</h1>
-<h3 align="center">Student at Buenos Aires University</h3>
+<h3 align="center">Student at Buenos Aires University (UBA)</h3>
 
 <br>
 
