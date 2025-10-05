@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning Web Development and Data Science
 
-- 📫 How to reach me **diegofleitas98@outlook.es**
+- 📫 How to reach me **fleitasdiegoariel98@gmail**
 
 
 <br>
