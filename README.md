@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning Web Development and Data Science
 
-- 📫 How to reach me **fleitasdiegoariel98@gmail**
+- 📫 How to reach me **fleitasdiegoariel98@gmail.com**
 
 
 <br>
@@ -27,9 +27,5 @@
   <a href="https://www.hackerrank.com/fleitasdiegoari1" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="diego fleitas" height="30" width="40" /></a>
-</p><a href="https://twitter.com/_DFleiitas" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="diego fleitas" height="30" width="40" /></a>
-
-<br>
+</p>
 
